@@ -21,6 +21,6 @@ This project has significant implications for early detection of eye diseases, a
 ## Demonstration - 
 <img width="408" alt="Screenshot 2024-09-08 at 5 22 10 PM" src="https://github.com/user-attachments/assets/b4388f26-635f-40f9-abcd-9f5fc159d566">
 
-
-
-
+## References - 
+1) https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
+2) https://www.youtube.com/watch?v=dGtDTjYs3xc&list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD 
